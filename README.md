@@ -2,7 +2,7 @@
    
                                                       !😄! [Nice to meet you] !😄!
    
-                                                    *🙀* :Here you can find me: *🙀*
+                                                   *🙀* {:Here you can find me:} *🙀*
 
 📲*Facebook : https://www.facebook.com/mariusz.perzynski.9 📲
 
