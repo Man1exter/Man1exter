@@ -4,20 +4,20 @@
    
                                                    *🙀* {:HERE YOU CAN FIND ME:} *🙀*
 
-📲*Facebook: 
+📲 Facebook 📲
 [https://www.facebook.com/mariusz.perzynski.9] 📲
 
-💻*Linkedin:     
+💻 Linkedin 💻     
 [https://www.linkedin.com/in/mariusz-perzy%C5%84ski-3b56b01b3/] 💻
 
-📷*Instagram: 
+📷 Instagram 📷
 [https://www.instagram.com/marioo.js/] 📷
 
-📫*Email:     
-[m.perzyk@interia.pl] ✉️
+📫 Email ✉️     
+[m.perzyk@interia.pl] 📫✉️
  
-🎮*Steam:     
-[https://steamcommunity.com/id/Man1eX/] 👾
+🎮 Steam 👾     
+[https://steamcommunity.com/id/Man1eX/] 🎮👾
 
 
 
