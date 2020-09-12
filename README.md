@@ -16,13 +16,13 @@
 
 📷[https://www.instagram.com/marioo.js/]📷
 
-📫         E-MAIL          ✉️     
+📫         E-MAIL      📫     
 
-📫✉️[m.perzyk@interia.pl]📫✉️
+✉️[m.perzyk@interia.pl]✉️
  
-🎮                   STEAM                   👾     
+🎮                   STEAM               🎮      
 
-🎮👾[https://steamcommunity.com/id/Man1eX/]🎮👾
+👾[https://steamcommunity.com/id/Man1eX/]👾
 
 
 
