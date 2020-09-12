@@ -1,8 +1,8 @@
-                                                        !👋! ..Hello World.. !👋!
+                                                        !👋! ..HELLO WORLD.. !👋!
    
-                                                      !😄! [Nice to meet you] !😄!
+                                                      !😄! [NICE TO MEET YOU] !😄!
    
-                                                   *🙀* {:Here you can find me:} *🙀*
+                                                   *🙀* {:HERE YOU CAN FIND ME:} *🙀*
 
 📲*Facebook:    [https://www.facebook.com/mariusz.perzynski.9] 📲
 
