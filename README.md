@@ -6,6 +6,7 @@
 
 
 📲                   FACEBOOK                   📲
+
 📲[https://www.facebook.com/mariusz.perzynski.9]📲
 
 
@@ -15,6 +16,7 @@
 
 
 📷                INSTAGRAM             📷
+
 📷[https://www.instagram.com/marioo.js/]📷
 
 
