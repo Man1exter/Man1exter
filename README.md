@@ -15,7 +15,7 @@
 
 
 
-📷 INSTAGRAM 📷 [https://www.instagram.com/marioo.js/] 📷
+📷 INSTAGRAM 📷 [https://www.instagram.com/man1ex/] 📷
 
 
 
