@@ -24,6 +24,6 @@
 
 🎮 STEAM 🎮 [https://steamcommunity.com/id/Man1eX/] 👾
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Man1exter)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
