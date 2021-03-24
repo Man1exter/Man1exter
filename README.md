@@ -24,6 +24,8 @@
 
 🎮 STEAM 🎮 [https://steamcommunity.com/id/Man1eX/] 👾
 
+[![Man1exter's wakatime stats](https://github-readme-stats.vercel.app/api/Man1exter?username=Man1exter)](https://github.com/Man1exter/github-readme-stats)
+
 
 
 
