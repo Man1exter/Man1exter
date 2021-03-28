@@ -2,7 +2,7 @@
 #### Nice to see you on my account
 I created this profile because I have always wanted to program, but once I dared to take my first steps, I had to learn everything and keep my projects from getting lost 😂😂😂😂😂
 
-Skills: PYTHON / C++ / JAVASCRIPT / HTML / CSS / BOOTSTRAP / GIT / GITHUB / LINUX
+Skills: CSS    HTML    JavaScript VS Code    Git    Google Chrome   Python   C++  Bootstrap
 
 - 🔭 I’m currently working on self-improvement 
 - 🌱 I’m currently learning Python 
