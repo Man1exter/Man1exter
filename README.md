@@ -5,7 +5,7 @@ I created this profile because I have always wanted to program, but once I dared
 Skills: CSS / HTML / JavaScript / VS Code / Git / Google Chrome / Python(+Turtle, +Tkinter) / C++ / Bootstrap
 
 - 🔭 I’m currently working on self-improvement 
-- 🌱 I’m currently learning Python(Pygames + Tkinter + NumPy)
+- 🌱 I’m currently learning Python(Pygames + Tkinter + NumPy + Django)
 - 💬 Ask me about something 
 - 📫 How to reach me: m.perzyk@interia.pl 
 - ⚡ Fun fact: i love playing computer games 
