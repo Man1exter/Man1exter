@@ -2,7 +2,7 @@
 #### Nice to see you on my account
 I created this profile because I have always wanted to program, but once I dared to take my first steps, I had to learn everything and keep my projects from getting lost 😂😂😂😂😂
 
-Skills: CSS / HTML / JavaScript / VS Code / Git / Google Chrome / Python(+Turtle, +Tkinter, +Pandas, +NumPy, +JupyterLab) / C++ / Bootstrap
+Skills: CSS / HTML / JavaScript / VS Code / Git / Google Chrome / Python(+Turtle, +Tkinter, +Pandas, +NumPy, +JupyterLab, +Django) / C++ / Bootstrap
 
 - 🔭 I’m currently working on self-improvement 
 - 🌱 I’m currently learning Python(Tkinter + NumPy + Django + CherryPy + Hacking with Python)
