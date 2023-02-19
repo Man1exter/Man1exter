@@ -16,8 +16,7 @@ Skills: CSS / HTML / JavaScript / VS Code / Git / Google Chrome / Python(+Turtle
 [![trophy](https://github-profile-trophy.vercel.app/?username=Man1exter)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Man1exter&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Man1exter)  
+ 
 
 
 
